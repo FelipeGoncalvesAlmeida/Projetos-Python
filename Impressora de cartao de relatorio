@@ -1,0 +1,14 @@
+name = 'Alice'
+print(name, type(name))
+
+is_student = True
+print(is_student, type(is_student))
+
+#Verifica o tipo da variavel
+age = 20
+print(age, type(age))
+
+# Verifica se a variavel é um float
+score = 80.5
+print(isinstance(score, float))
+
